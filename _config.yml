@@ -1,16 +1,16 @@
 # Site settings
 name: Hospice MICHOAGAN
 title: Hospice MICHOAGAN | Cybersecurity professional
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+description: Cybersecurity professional focused on penetration testing, real time security event monitoring and security incident investigation.
 url: https://michpice.github.io/
 baseurl: ''
 email: hospicemichoagan04g@gmail.com
 cover: https://michpice.github.io/img/og.png
-logo: https://michpice.github.io/img/emojis/technologist.png
+logo: https://michpice.github.io/img/emojis/rocket.png
 resume: https://michpice.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:hospicemichoagan04g@gmail.com
+    url: mailto:hospicemichoagan04@gmail.com
   - title: twitter
     url: https://twitter.com/michpice
   - title: instagram
